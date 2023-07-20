@@ -1,4 +1,4 @@
-# Egocom_UPC
+# Egocom_IRI_UPC
 
 This repository is about next speaker prediction of EgoCom Dataset by models including transformers.
 
