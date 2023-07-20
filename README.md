@@ -20,6 +20,10 @@ The pdovided methods are:
 
   4. Late-fusion transformer-based model with multi-head attention output and attention layer (LFT+AA)
   
+  5. Multi-stream multi-modal hybrid transformer (MSMMHT)
+  
+  6. Multi-stream multi-modal vanila transformer (MSMMVT) 
+  
   Before using the codes dataset address should be adjusted inside the Prepare_data.py script. 
   
   Here is a sample usage of the scripts:
