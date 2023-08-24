@@ -1,10 +1,15 @@
-# Egocom_IRI_UPC
+Egocom_IRI_UPC
+=======
 
 This repository is about next speaker prediction of EgoCom Dataset by models including transformers.
+
+## Dataset
 
 You can visit the dataset website for more details: [[HERE](https://github.com/facebookresearch/EgoCom-Dataset)]
 
 This dataset is moluti-modal which consists of features extracted from three modalities of Text, Video and Audio.
+
+## Scripts
 
 The aim of this project is utilizing three modalities by transformer models to recognize next speaker with higer accuracy.
 
@@ -25,6 +30,19 @@ The pdovided methods are:
   6. Multi-stream multi-modal vanila transformer (MSMMVT) 
   
   Before using the codes dataset address should be adjusted inside the Prepare_data.py script. 
+  
+  ## Installation
+
+  Follow these commands to install Egocom-IRI-UPC in your environment. The required libraries are standard.
+
+    git clone https://github.com/mehdifatan/Egocom-IRI-UPC
+
+    cd Egocom-IRI-UPC
+
+    Install the dependencies listed in requirements.txt:
+        pip install -r requirements.txt
+  
+  ## Usage
   
   Here is a sample usage of the scripts:
     
